@@ -56,7 +56,14 @@ To get the Sewing Machine block in Creative mode, open the chat console and run 
 /give @s sewingmod:sewing_machine
 ✂️ Recipes:
 Crafting: Sewing Pattern, Leather, Sting!
-Reparing Sewing Patter, Broken Tunic, String
+Reparing: Sewing Patter, Broken Tunic, String
+Sewing Mechine: Two Sting on top, two wood below, and one iron ingot next to the wood.
+Sew Pattern: paper plus coal on the midle row.
+
+Crafting Pants: Midle Frist Slot Sewing Pattern, Midle Center Slot Leather, Bottum Center Slot Leather, Midle Final Slot String
+Crafting Hat: Midle Frist Slot Sewing Pattern, Midle Center Slot Leather, Top Center Slot Leather, Midle Final Slot String
+
+If you wish to upgrade these at the Sewing Mechine, repalce the top leather with iron, gold, dimond, or neitehrite!
 
 
 /give @s sewingmod:sewing_machine
