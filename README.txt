@@ -54,13 +54,9 @@ How to use!:
 To get the Sewing Machine block in Creative mode, open the chat console and run the following command:
 ```text
 /give @s sewingmod:sewing_machine
-✂️ Recipes (Smithing / Sewing Interface)The Sewing Machine utilizes a specialized 3-slot layout (Template, Base, and Material addition) 
-to stitch and repair leather garments.1. Tailoring Leather ClothesTo craft a brand new set of leather clothing, insert String as your 
-structural template, Leather as the base material, and an additional piece of String to stitch it together.
-Slot 1 (Template)Slot 2 (Base Material)Slot 3 (Stitch Material)Result🧶 String🐂 Leather🧶 String🧥 Leather Tunic2. 
-
-Mending Damaged ClothesTo repair worn-out leather armor, place the damaged garment into the sewing station and use extra string to patch up its durability.
-Slot 1 (Template)Slot 2 (Base Material)Slot 3 (Repair Material)Result🧶 String🧥 Damaged Leather Tunic🧶 String✨ Repaired Leather Tunic
+✂️ Recipes:
+Crafting: Sewing Pattern, Leather, Sting!
+Reparing Sewing Patter, Broken Tunic, String
 
 
 /give @s sewingmod:sewing_machine
