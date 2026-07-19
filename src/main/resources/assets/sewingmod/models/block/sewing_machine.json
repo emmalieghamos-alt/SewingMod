@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/loom_top",
+    "front": "minecraft:block/loom_front",
+    "side": "minecraft:block/loom_side",
+    "bottom": "minecraft:block/planks_oak",
+    "particle": "minecraft:block/loom_side"
+  }
+}

@@ -1,0 +1,30 @@
+# This is the mods.toml file for the Sewing Machine Mod.
+modLoader="javafml" #mandatory
+loaderVersion="[47,)" #mandatory for Minecraft 1.20.1 Forge
+
+license="MIT" # Feel free to change this if you prefer a different license
+
+[[mods]] #mandatory
+modId="sewingmod" #mandatory (Matches your Java code exactly!)
+version="1.0.0" #mandatory
+displayName="Sewing Machine Mod" #mandatory
+authors="Emma" #optional
+
+description='''
+A Minecraft modification that introduces a functional Sewing Machine block! 
+Players can place down the machine to craft and stitch leather together into standard leather armor.
+'''
+
+[[dependencies.sewingmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.sewingmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

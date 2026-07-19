@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "PLS",
+    "   "
+  ],
+  "key": {
+    "P": {
+      "item": "sewingmod:sewing_pattern"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "minecraft:leather_chestplate",
+    "count": 1
+  }
+}

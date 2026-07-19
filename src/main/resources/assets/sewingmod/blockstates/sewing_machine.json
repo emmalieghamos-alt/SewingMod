@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sewingmod:block/sewing_machine"
+    }
+  }
+}
